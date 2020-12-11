@@ -1,0 +1,24 @@
+﻿  pch.cpp
+  714HW1.cpp
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\714hw1.cpp(194): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Grid.cpp
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(101): warning C4101: 'MaxError': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(101): warning C4101: 'Error': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(107): warning C4101: 'f': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(107): warning C4101: 'dudy': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(100): warning C4101: 'iCount': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(155): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(177): warning C4101: 'MaxError': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(177): warning C4101: 'Error': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(183): warning C4101: 'f': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(183): warning C4101: 'dudy': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(176): warning C4101: 'iCount': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(1005): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(1115): warning C4101: 'MaxError': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(1115): warning C4101: 'Error': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(1114): warning C4101: 'iCount': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(1169): warning C4101: 'MaxError': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(1169): warning C4101: 'Error': unreferenced local variable
+d:\mdx\dan\學校\wisconsin\2020fall\714\project\code\714hw1\714hw1\grid.cpp(1168): warning C4101: 'iCount': unreferenced local variable
+  Generating Code...
+  714HW1.vcxproj -> D:\MDX\Dan\學校\Wisconsin\2020Fall\714\Project\Code\714HW1\x64\Debug\714HW1.exe
